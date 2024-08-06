@@ -3,6 +3,7 @@
   <!-- <div class="centered-widget">
     <givebutter-widget id="LYdEKj"></givebutter-widget>
   </div> -->
+  <fuaa-widget></fuaa-widget>
 </template>
 
 <script>
@@ -30,3 +31,5 @@ export default {
   height: 20vh;
 }
 </style>
+
+<!-- .starters/default/.vercel/output/static -->

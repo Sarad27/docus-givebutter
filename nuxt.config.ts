@@ -37,7 +37,7 @@ export default defineNuxtConfig({
   },
   vue: {
     compilerOptions: {
-      isCustomElement: (tag) => ['givebutter-widget'].includes(tag),
+      isCustomElement: (tag) => ['givebutter-widget', 'fuaa-widget'].includes(tag),
     }
   },
   app: {
