@@ -1,7 +1,8 @@
 <template>
-  <div class="centered-widget">
+  <p>HI</p>
+  <!-- <div class="centered-widget">
     <givebutter-widget id="LYdEKj"></givebutter-widget>
-  </div>
+  </div> -->
 </template>
 
 <script>
